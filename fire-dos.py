@@ -18,7 +18,7 @@ print """\033[91m
 
    \033[0m"""
 
-print "\033[94m\n========== Youtube Gw Culun ==========\033[0m"
+print "\033[94m\n========== Youtube Siculun Tampan ==========\033[0m"
 
 print "\033[103m\nSelamat datang di tools Fire Dos !....\nTools ini digunakan untuk kebutuhan research / pembelajaran!....\nPembuat tidak bertanggung jawab jika tools ini digunakan untuk keriminal !.....\033[0m"
 
